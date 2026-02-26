@@ -1,7 +1,6 @@
 # Mathieu 🐈‍⬛
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-yeldalo&size_weight=0.5&count_weight=0.5)
-
+![Stats](./profile/stats.svg)
 <!--
 **Matt-Yeldalo/matt-yeldalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
